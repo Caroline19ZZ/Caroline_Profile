@@ -32,7 +32,7 @@ The website showcases my:
 ## Live Website
 
 GitHub Pages:
-https://caroline19zz.github.io/Caroline_Profile/
+https://github.com/Caroline19ZZ
 
 ## Author
 
